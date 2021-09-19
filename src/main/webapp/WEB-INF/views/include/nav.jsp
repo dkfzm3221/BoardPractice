@@ -7,8 +7,8 @@
 		<a href="/board/list">글 목록</a>
 	</li>
 	<li>  
-		<a href="/board/write">글 작성</a>   
+		<a href="/board/write">글 작성</a>  
 	</li>  
-	 
+	  
 </ul>  
 </html>

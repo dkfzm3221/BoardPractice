@@ -8,7 +8,7 @@
 	</li>
 	<li>  
 		<a href="/board/write">글 작성</a>  
-	</li>  
+	</li>     
 	    
 </ul>  
 </html>

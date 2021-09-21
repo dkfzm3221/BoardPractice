@@ -28,7 +28,7 @@ public class BoardServiceImpl implements BoardService {
 	}
 	  
 	//게시물 조회
-	@Override
+	@Override   
 	public BoardVO view(int bno) throws Exception {
 		
 		return dao.view(bno);

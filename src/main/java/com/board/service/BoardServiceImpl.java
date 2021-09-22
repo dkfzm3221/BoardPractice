@@ -27,7 +27,7 @@ public class BoardServiceImpl implements BoardService {
 		dao.write(vo);
 	}
 	  
-	//게시물 조회
+	//게시물 조회    
 	@Override   
 	public BoardVO view(int bno) throws Exception {
 		
